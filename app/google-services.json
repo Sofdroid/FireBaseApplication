@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "391677711358",
+    "firebase_url": "https://glaring-fire-1647.firebaseio.com",
+    "project_id": "glaring-fire-1647",
+    "storage_bucket": "glaring-fire-1647.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:391677711358:android:137915b2f6ebf159",
+        "android_client_info": {
+          "package_name": "firebase.sofdroid.com.firebaseapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "391677711358-95diop7qskfatvfb484381hu5ur4p7fj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "firebase.sofdroid.com.firebaseapplication",
+            "certificate_hash": "AF40EB42267A02B17E398B1B9763463D23F43B8C"
+          }
+        },
+        {
+          "client_id": "391677711358-6ug7r0btlf3pme36gjk9gm8knd2viokd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJ37QIHMZulg3cX0jNOzoWPzq0Mgzyooo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "391677711358-6ug7r0btlf3pme36gjk9gm8knd2viokd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
