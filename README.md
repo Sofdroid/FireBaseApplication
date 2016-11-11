@@ -1,0 +1,3 @@
+# FireBaseApplication
+getting started with firebase...
+don't forget to change the google-service.json file with your own file with your Gmail account and you SHA1.
