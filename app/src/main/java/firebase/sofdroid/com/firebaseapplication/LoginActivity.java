@@ -336,9 +336,9 @@ public class LoginActivity extends AppCompatActivity implements LoaderCallbacks<
                             } else {
                                 Toast.makeText(LoginActivity.this, "Connected " + task.isSuccessful(), Toast.LENGTH_LONG).show();
 
+
                                 Log.e("Status ", String.valueOf(task.isSuccessful()));
                                 Intent intent = new Intent(getApplicationContext(), MainActivity.class);
-                                intent.putExtra("user", firebaseAuth.getCurrentUser().getUid());
                                 startActivity(intent);
                             }
                         }

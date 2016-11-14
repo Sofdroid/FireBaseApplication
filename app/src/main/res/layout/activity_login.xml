@@ -83,7 +83,7 @@
                 android:textStyle="bold"
 
                 android:id="@+id/id_textview_register"
-                android:text="Nota a member ? Get registered Now!"/>
+                android:text="Not a member ? Get registered Now!"/>
 
         </LinearLayout>
 
